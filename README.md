@@ -1,0 +1,1 @@
+# Codility---John-Hawaii-vacation
