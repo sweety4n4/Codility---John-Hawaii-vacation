@@ -1,0 +1,12 @@
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/bin/Debug/netcoreapp3.1/VacationToHawaiiApp.deps.json
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/bin/Debug/netcoreapp3.1/VacationToHawaiiApp.runtimeconfig.json
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/bin/Debug/netcoreapp3.1/VacationToHawaiiApp.runtimeconfig.dev.json
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/bin/Debug/netcoreapp3.1/VacationToHawaiiApp.dll
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/bin/Debug/netcoreapp3.1/VacationToHawaiiApp.pdb
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/obj/Debug/netcoreapp3.1/VacationToHawaiiApp.csprojAssemblyReference.cache
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/obj/Debug/netcoreapp3.1/VacationToHawaiiApp.AssemblyInfoInputs.cache
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/obj/Debug/netcoreapp3.1/VacationToHawaiiApp.AssemblyInfo.cs
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/obj/Debug/netcoreapp3.1/VacationToHawaiiApp.csproj.CoreCompileInputs.cache
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/obj/Debug/netcoreapp3.1/VacationToHawaiiApp.dll
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/obj/Debug/netcoreapp3.1/VacationToHawaiiApp.pdb
+/Users/SirajRahman/Projects/VacationToHawaiiApp/VacationToHawaiiApp/obj/Debug/netcoreapp3.1/VacationToHawaiiApp.genruntimeconfig.cache
